@@ -1,6 +1,4 @@
 # ansible
 
 testing
-
-
 testing again
